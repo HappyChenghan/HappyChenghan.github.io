@@ -28,7 +28,7 @@ author:
   location         : "Xi'an, Shannxi,China"
   employer         : "The northwest University"
   uri              : "https://HappyChenghan.github.io"
-  email            : "Chenghanjiang@stumail.nwu.edu.cn" 
+  email            : "mailto:{{Chenghanjiang@stumail.nwu.edu.cn }}"
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
