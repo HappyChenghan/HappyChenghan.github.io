@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd in CS, Northwest university (China). My research interests include wireless sensing, wireless communications, IoT device security, and programmable metasurface applications.
+I am a phd in the Department of Computer Science and Technology, Northwest university (China), under supervisor of Prof. Xiaojiang Chen. My research interests include wireless sensing, wireless communications, IoT device security, and programmable metasurface applications.you can contact me by Email: jiangchenghan@stumail.nwu.edu.cn.
