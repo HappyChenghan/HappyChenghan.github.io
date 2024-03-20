@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Northwest University, 2022-Today (expected)
+* M.S. in Information and Communication Engineering, Northwest University, 2021-2022
+* B.S. in Electronic Information Science and Technology, Northwest University, 2017-2021
 
 Work experience
 ======
