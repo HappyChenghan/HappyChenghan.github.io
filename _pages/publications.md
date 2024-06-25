@@ -4,11 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- [**Mobicom'22**] Protego: securing wireless communication via programmable metasurface
-  Xinyi Li,Chao Feng,Fengyi Song,**Chenghan Jiang**,Yangfan Zhang,Ke Li,Xinyu Zhang,Xiaojiang Chen
-  paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-- [1111]
+- [**Mobicom'22**] Protego: securing wireless communication via programmable metasurface  
 ---
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+Xinyi Li,Chao Feng,Fengyi Song,**Chenghan Jiang**,Yangfan Zhang,Ke Li,Xinyu Zhang,Xiaojiang Chen
 ---
 
