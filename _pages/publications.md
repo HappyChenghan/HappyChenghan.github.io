@@ -8,13 +8,7 @@ author_profile: true
   Xinyi Li,Chao Feng,Fengyi Song,**Chenghan Jiang**,Yangfan Zhang,Ke Li,Xinyu Zhang,Xiaojiang Chen
   paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 - [1111]
-
-
-
-
-
 {% include base_path %}
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
