@@ -1,7 +1,7 @@
 main:
 
   - title: RISiren: Wireless Sensing System Attacks via Metasurface
-    authors: <strong>Chenghan Jiang<strong>, Jinjiang Yang, Xinyi Li, Qi Li, Xinyu Zhang, Ju Ren* (*Corresponding authors)
+    authors: <strong>Chenghan Jiang</strong>, Jinjiang Yang, Xinyi Li, Qi Li, Xinyu Zhang, Ju Ren* (*Corresponding authors)
     conference_short: ACM CCS 2024
     conference: ACM Conference on Computer and Communications Security  <strong>(CCS)</strong>, 2024.
     pdf: ./assets/files/RISren_CCS2024_Camera_ready_New (0918).pdf
