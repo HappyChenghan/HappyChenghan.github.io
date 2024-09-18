@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a phd in the Department of Computer Science and Technology, Northwest university (China), under supervisor of Prof. Xiaojiang Chen. My research interests include wireless sensing, wireless communications, IoT device security, and programmable metasurface applications.
 
-## Research Interests
+## My Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **wireless sensing:** Smart health care
+- **wireless communications:** Smart Programmble RF environment
+- **Physical Layer Secirity:** Anti-sensing, IoT device security
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2024]** Our paper **RISiren**  is accepted to ACM CCS 2024.
+
 
 {% include_relative _includes/publications.md %}
 
