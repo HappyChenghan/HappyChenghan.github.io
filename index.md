@@ -14,7 +14,7 @@ I am a phd in the Department of Computer Science and Technology, Northwest unive
 
 ## News
 
-- **[Aug. 2024]** Our paper **RISiren**  is accepted to ACM CCS 2024.
+- **[Aug. 2024]** Our paper **RISiren**  is accepted to <span style="color: red;">ACM CCS 2024</span>.
 
 
 {% include_relative _includes/publications.md %}
