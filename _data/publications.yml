@@ -4,10 +4,10 @@ main:
     authors: <strong>Chenghan Jiang</strong>, Jinjiang Yang, Xinyi Li, Qi Li, Xinyu Zhang, Ju Ren* (*Corresponding authors)
     conference_short: CCS
     conference: The ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/RISren_CCS2024_Camera_ready_New (0918).pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Accept
 
 
