@@ -14,7 +14,7 @@ main:
     authors: Xinyi Li<sup># </sup>, Chao Feng<sup># </sup> （<sup># </sup> Equally contributing authors）, Fengyi Song, Chenghan Jiang, Yangfan Zhang, Ke Li, Xinyu Zhang, Xiaojiang Chen*(*Corresponding authors)
     conference_short: Mobicom
     conference: The International Conference on Mobile Computing and Networking <strong>(Mobicom)</strong>, 2022
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: ./assets/files/Li 等 - 2022 - Protego securing wireless communication via progr
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
