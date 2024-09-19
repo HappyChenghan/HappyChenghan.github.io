@@ -15,10 +15,10 @@ main:
     conference_short: Mobicom
     conference: The International Conference on Mobile Computing and Networking <strong>(Mobicom)</strong>, 2022
     pdf: ./assets/files/Li 等 - 2022 - Protego securing wireless communication via progr
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Accept
     image: ./assets/img/teaser_example.png
 
 
