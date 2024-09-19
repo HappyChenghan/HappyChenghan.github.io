@@ -5,8 +5,8 @@ main:
     conference_short: CCS
     conference: The ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2024.
     pdf: ./assets/files/RISren_CCS2024_Camera_ready_New (0918).pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Fig1.jpg
     notes: Accept
 
