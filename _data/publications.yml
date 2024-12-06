@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/RISren_CCS2024_Camera_ready_New (0918).pdf
     # Demo: https://www.youtube.com/watch?v=YxUEGERSgpU&t=21s
     Slides: ./assets/Slides/RISiren_CCS24 _Slides.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Fig1.jpg
     notes: Accept
