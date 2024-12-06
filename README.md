@@ -1,6 +1,6 @@
 # The Minimal Light Theme
 
-<a href="http://s01.flagcounter.com/more/uHT"><img src="https://s01.flagcounter.com/map/uHT/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
