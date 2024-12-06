@@ -6,8 +6,9 @@ main:
     conference: The ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2024.
     pdf: ./assets/files/RISren_CCS2024_Camera_ready_New (0918).pdf
     # Demo: https://www.youtube.com/watch?v=YxUEGERSgpU&t=21s
-    Slides: ./assets/Slides/RISiren_CCS24 _Slides.pdf
+    slides: ./assets/Slides/RISiren_CCS24 _Slides.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
+    demo: https://www.youtube.com/watch?v=YxUEGERSgpU&t=23s
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Fig1.jpg
     notes: Accept
