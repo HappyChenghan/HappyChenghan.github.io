@@ -14,7 +14,7 @@ I am a phd in the Department of Computer Science and Technology, Northwest unive
 
 ## News
 
--**[Jan. 2026 ]** <span style="color: red;">New！</span> Our paper **MetAegis** is accepted to ACM IMWUT/Ubicomp 2024.
+- **[Jan. 2026 ]** <span style="color: red;">New！</span> Our paper **MetAegis** is accepted to ACM IMWUT/Ubicomp 2024.
 
 - **[Aug. 2024]** Our paper **RISiren**  is accepted to <span style="color: red;">ACM CCS 2024</span>.
 
