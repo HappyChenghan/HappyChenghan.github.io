@@ -1,4 +1,18 @@
 main:
+  - title: "MetAegis: Defend Against Physical-layer Wireless Sensing Leakage via Metasurface Obfuscation"
+    authors: Jinjiang Yang, <strong>Chenghan Jiang</strong>, Jie Zhang, Xinyi Li, etc.
+    conference_short: IMWUT/Ubicomp
+    conference: The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT)</strong>, 2026.
+    pdf: ./assets/files/RISiren_CCS2024_Camera_ready_New (0918).pdf
+    # demo: https://www.youtube.com/watch?v=YxUEGERSgpU&t=21s
+    # slides: ./assets/Slides/RISiren_CCS24 _Slides.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # demo: https://www.youtube.com/watch?v=yY80IhLvz3Q
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Fig1.jpg
+    notes: Accept
+
+
 
   - title: "RISiren: Wireless Sensing System Attacks via Metasurface"
     authors: <strong>Chenghan Jiang</strong>, Jinjiang Yang, Xinyi Li, Qi Li, Xinyu Zhang, Ju Ren* (*Corresponding authors)
