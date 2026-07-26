@@ -14,7 +14,7 @@ I am a phd in the Department of Computer Science and Technology, Northwest unive
 
 ## News
 
-- **[Jan. 2026 ]** <span style="color: red;">New！</span> Our paper **MetAegis** is accepted pending minor revisions to ACM IMWUT/Ubicomp.
+- **[Jul. 2026 ]** <span style="color: red;">New！</span> Our paper **Hygieia** is accepted pending minor revisions to ACM IMWUT/Ubicomp.
 
 - **[Aug. 2024]** Our paper **RISiren**  is accepted accepted pending minor revisions to <span style="color: red;">ACM CCS 2024</span>.
 
